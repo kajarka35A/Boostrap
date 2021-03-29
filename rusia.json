@@ -1,0 +1,213 @@
+{
+    "match": {
+        "a": [
+            {
+                "1": {
+                    "e1": "Rusia",
+                    "e2": "Arabia Saudita",
+                    "date": "12/03/2018"
+                },
+                "2": {
+                    "e1": "Rusia",
+                    "e2": "Egipto",
+                    "date": "18/03/2018"
+                }
+            }
+        ],
+        "b": [
+            {
+                "1": {
+                    "e1": "Portugal",
+                    "e2": "España",
+                    "date": "15/03/2018"
+                },
+                "2": {
+                    "e1": "Portugal",
+                    "e2": "Iran",
+                    "date": "20/03/2018"
+                }
+            }
+        ],
+        "c": [
+            {
+                "1": {
+                    "e1": "Francia",
+                    "e2": "Australia",
+                    "date": "21/03/2018"
+                },
+                "2": {
+                    "e1": "Francia",
+                    "e2": "Peru",
+                    "date": "26/03/2018"
+                }
+            }
+        ],
+        "d": [
+            {
+                "1": {
+                    "e1": "Argentina",
+                    "e2": "Islandia",
+                    "date": "19/03/2018"
+                },
+                "2": {
+                    "e1": "Argentina",
+                    "e2": "Croacia",
+                    "date": "28/03/2018"
+                }
+            }
+        ]
+    },
+    "grupos": {
+        "a": {
+            "1": {
+                "name": "Rusia",
+                "description": "Rusia es la nación más grande del mundo y limita con países de Europa y Asia, al igual que con los océanos Pacífico y Ártico. Su paisaje va de la tundra y el bosque a las playas subtropicales. ",
+                "image": {
+                    "shield": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Coat_of_Arms_of_the_Russian_Federation.svg/250px-Coat_of_Arms_of_the_Russian_Federation.svg.png",
+                    "team": "https://as.com/futbol/imagenes/2018/05/23/reportajes/1527095551_205163_1527096607_noticiareportajes_grande.jpg",
+                    "uniform": "https://imagenes.milenio.com/BIEP7cy8sR_z5OA1HB4YxkvsXmM=/618x348/https://www.milenio.com/uploads/media/2018/06/09/jersey-rusia-adidas.jpg"
+                }
+            },
+            "2": {
+                "name": "Arabia Saudita",
+                "description": "es un país de Asia Occidental ubicado en la península arábiga, cuya forma de gobierno es la monarquía absoluta.",
+                "image": {
+                    "shield": "",
+                    "team": "https://deportesimagenes.canalrcn.com/ImgDeportesNew/arabia_saudi_afp.jpg",
+                    "uniform": "https://i.pinimg.com/originals/73/5e/cb/735ecb372238314fe00b7052a2d9b1c1.jpg"
+                }
+            },
+            "3": {
+                "name": "Egipto",
+                "description": "Egipto, país que une el noreste de África con Medio Oriente, data del período de los faraones. Tiene monumentos de milenios de antigüedad ubicados junto al fértil valle del río Nilo, incluidas las colosales pirámides de Guiza y la Gran Esfinge, al igual que las tumbas del Valle de los Reyes y el Templo de Karnak bordeado de jeroglíficos en Luxor. ",
+                "image": {
+                    "shield": "",
+                    "team": "https://images11.eitb.eus/multimedia/images/2018/06/05/2297007/20180605110945_egipto_foto610x342.jpg",
+                    "uniform": "https://todosobrecamisetas.com/wp-content/uploads/Egipto.jpg"
+                }
+            },
+            "4": {
+                "name": "Uruguay",
+                "description": "Uruguay es un país de Sudamérica conocido por su interior verde y costa bordeada de playas. La capital, Montevideo, se ubica en torno a la plaza Independencia, donde alguna vez hubo una ciudadela española.",
+                "image": {
+                    "shield": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+                    "team": "https://files.antena2.com/antena2/public/styles/imagen_despliegue/public/2018-06/000_16a9v0_1_0.jpg?itok=pcATTY-y",
+                    "uniform": "https://todosobrecamisetas.com/wp-content/uploads/Uruguay.jpg"
+                }
+            }
+        },
+        "b": {
+            "1": {
+                "name": "Portugal",
+                "description": "Portugal, oficialmente la República Portuguesa (en portugués: República Portuguesa; pron. AFI [rɛ'puβlikɐ puɾtu'ɣezɐ] o [ʁɛ'puβlikɐ puɾtu'ɣezɐ]; en mirandés: República Pertuesa), es uno de los veintisiete estados soberanos que forman la Unión Europea, constituido como un estado de derecho democrático. Es un país transcontinental. La mayor parte de su territorio, con capital en Lisboa, está situado en el suroeste de Europa, en la península ibérica. Limita al este y al norte con España, y al sur y oeste con el océano Atlántico. Comprende también los archipiélagos autónomos de las Azores y Madeira situados en el hemisferio norte del océano Atlántico.",
+                "image": {
+                    "shield": "",
+                    "team": "https://as.com/futbol/imagenes/2017/11/21/reportajes/1511289284_781382_1529750479_noticiareportajes_grande.jpg",
+                    "uniform": ""
+                }
+            },
+            "2": {
+                "name": "España",
+                "description": "España, país de la península ibérica de Europa, incluye 17 regiones autónomas con diversas características geográficas y culturales. En Madrid, su capital, se encuentra el Palacio Real y el Museo del Prado, que alberga obras de maestros europeos.",
+                "image": {
+                    "shield": "",
+                    "team": "https://images2.minutemediacdn.com/image/upload/c_fill,w_912,h_516,f_auto,q_auto,g_auto/shape/cover/sport/top-from-l-spain-s-striker-pedro-spai-5e92e606427ad66f5c000001.jpg",
+                    "uniform": ""
+                }
+            },
+            "3": {
+                "name": "Marruecos",
+                "description": "Marruecos es un país de África del Norte que limita con el océano Atlántico y el mar Mediterráneo, y se distingue por las influencias culturales bereberes, árabes y europeas. ",
+                "image": {
+                    "shield": "",
+                    "team": "https://images11.eitb.eus/multimedia/images/2018/06/05/2297085/20180605115948_marruecos_foto610x342.jpg",
+                    "uniform": ""
+                }
+            },
+            "4": {
+                "name": "Iran",
+                "description": "Irán es una república islámica del golfo Pérsico (Arábigo) con sitios históricos que datan del Imperio Persa. ",
+                "image": {
+                    "shield": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1200px-Flag_of_Iran.svg.png",
+                    "team": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2018/06/19/15293612759708.jpg",
+                    "uniform": ""
+                }
+            }
+        },
+        "c": {
+            "1": {
+                "name": "Francia",
+                "description": "Francia, en Europa Occidental, abarca ciudades medievales, villas alpinas y playas mediterráneas. París, su capital, es famosa por sus firmas de alta costura, los museos de arte clásico, como el Louvre, y monumentos como la Torre Eiffel. El país también es reconocido por sus vinos y su gastronomía sofisticada. Los dibujos de la antigua cueva de Lascaux, el teatro romano de Lyon y el imponente Palacio de Versalles dan fe de su rica historia.",
+                "image": {
+                    "shield": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARMAAAC3CAMAAAAGjUrGAAAAFVBMVEX///8AI5XtKTkAFJJ6gbrzg4ntHTC7o1gDAAAA/klEQVR4nO3QSQ0AIAADsHH6l4yKPUhaCc2oWTs9586aOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHy4ckD5KrN4eD2boIAAAAASUVORK5CYII=",
+                    "team": "https://deportesimagenes.canalrcn.com/ImgDeportesNew/francia.jpeg",
+                    "uniform": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqloKSPI1n_FBtDrfVrNUPFZ52L1Y1xgKCrQ&usqp=CAU"
+                }
+            },
+            "2": {
+                "name": "Australia",
+                "description": "Australia es un país rodeado por los océanos Índico y Pacífico. Sus ciudades principales (Sídney, Brisbane, Melbourne, Perth y Adelaida) son costeras. Su capital, Canberra, se encuentra en el interior. El país es conocido por la Casa de la Ópera de Sídney, la Gran Barrera de Coral, una vasta área natural desértica conocida como Outback y especies animales únicas, como el canguro y el ornitorrinco.",
+                "image": {
+                    "shield": "",
+                    "team": "http://www.sport.es/es/ext_resources/especiales/mundial-2014/equipo/foto-australia.jpg",
+                    "uniform": ""
+                }
+            },
+            "3": {
+                "name": "Peru",
+                "description": "Perú es un país de Sudamérica que abarca una sección del bosque del Amazonas y Machu Picchu, una antigua ciudad inca en las alturas de los Andes. La región en torno a Machu Picchu, incluido el Valle Sagrado, el Camino del Inca y la ciudad colonial de Cuzco, es rica en sitios arqueológicos. En la costa árida del Pacífico de Perú se encuentra Lima, la capital, con un centro colonial preservado e importantes colecciones de arte precolombino.",
+                "image": {
+                    "shield": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Peru_%28state%29.svg/800px-Flag_of_Peru_%28state%29.svg.png",
+                    "team": "https://e.rpp-noticias.io/medium/2018/04/24/141914_599162.jpg",
+                    "uniform": ""
+                }
+            },
+            "4": {
+                "name": "Dinamarca",
+                "description": "Dinamarca es un país escandinavo que abarca la península de Jutlandia y varias islas. Está conectado con Suecia a través del puente de Öresund. Copenhague, su capital, cuenta con palacios reales y el colorido puerto de Nyhavn, junto con el parque de atracciones Tívoli y la icónica estatua de La Sirenita. Odense es la ciudad natal del escritor Hans Christian Andersen, con un centro medieval con calles de adoquines y casas con entramado de madera.",
+                "image": {
+                    "shield": "",
+                    "team": "https://as.com/futbol/imagenes/2017/11/20/reportajes/1511206879_785188_1511370566_noticiareportajes_grande.jpg",
+                    "uniform": ""
+                }
+            }
+        },
+        "d": {
+            "1": {
+                "name": "Argentina",
+                "description": "Argentina es un país sudamericano de gran envergadura con un terreno que incluye las montañas de los Andes, lagos glaciales y praderas en las Pampas, la tierra tradicional de pastoreo de su famoso ganado. El país es conocido por el baile y la música del tango. Su gran capital cosmopolita, Buenos Aires, se centra en la Plaza de Mayo, rodeada por imponentes edificios del siglo XIX, como la Casa Rosada, el icónico palacio presidencial.",
+                "image": {
+                    "shield": "",
+                    "uniform": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/10/18113055/cami-aarg.jpg"
+                }
+            },
+            "2": {
+                "name": "Islandia",
+                "description": "Islandia es un país insular nórdico que se caracteriza por su espectacular paisaje con volcanes, géiseres, termas y campos de lava. Cuenta con enormes glaciares protegidos en los parques nacionales de Vatnajökull y Snæfellsjökull. La mayoría de la población vive en la capital, Reikiavik, que se abastece de energía geotérmica y alberga el Museo Nacional y el Museo de Saga, que recorren la historia vikinga de Islandia",
+                "image": {
+                    "shield": "",
+                    "team": "https://images11.eitb.eus/multimedia/images/2018/06/06/2297769/20180606105300_islandia-rusia-2018_foto610x342.jpg",
+                    "uniform": ""
+                }
+            },
+            "3": {
+                "name": "Croacia",
+                "description": "Croacia es un país de Europa Oriental con una larga costa en el mar Adriático. Incorpora a más de 1,000 islas y lo cruzan los Alpes Dináricos. Su capital interior, Zagreb, es conocida por el barrio Gornji Grad (ciudad alta) y sus diversos museos. La principal ciudad costera, Dubrovnik, tiene murallas enormes que datan del siglo XVI y rodean una ciudad antigua con edificios góticos y renacentistas.",
+                "image": {
+                    "shield": "",
+                    "team": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2018/07/15/15316715466611.jpg",
+                    "uniform": "https://todosobrecamisetas.com/wp-content/uploads/Croacia.jpg"
+                }
+            },
+            "4": {
+                "name": "Nigeria",
+                "description": "Nigeria, oficialmente República Federal de Nigeria, es un país de África occidental, que limita con Níger al norte, con Chad en el nordeste, con Camerún en el este y con Benín en el oeste. Su costa sur está localizada en el Golfo de Guinea en el Océano Atlántico.",
+                "image": {
+                    "shield": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/1200px-Flag_of_Nigeria.svg.png",
+                    "team": "https://as.com/futbol/imagenes/2018/05/29/reportajes/1527605194_600718_1527605227_noticiareportajes_grande.jpg",
+                    "uniform": "https://todosobrecamisetas.com/wp-content/uploads/Nigeria.jpg"
+                }
+            }
+        }
+    }
+}
